@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-22T18:16:15 IST" name="Default suite" finished-at="2024-12-22T18:16:49 IST" duration-ms="33282">
+    <groups>
+    </groups>
+    <test started-at="2024-12-22T18:16:15 IST" name="Default test" finished-at="2024-12-22T18:16:49 IST" duration-ms="33282">
+      <class name="Android.Test.HomePage_Test_001">
+        <test-method is-config="true" signature="preSetup()[pri:0, instance:Android.Test.HomePage_Test_001@40a4337a]" started-at="2024-12-22T18:16:16 IST" name="preSetup" finished-at="2024-12-22T18:16:25 IST" duration-ms="9734" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preSetup -->
+        <test-method signature="formPage()[pri:0, instance:Android.Test.HomePage_Test_001@40a4337a]" started-at="2024-12-22T18:16:25 IST" name="formPage" finished-at="2024-12-22T18:16:48 IST" duration-ms="22495" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- formPage -->
+        <test-method is-config="true" signature="postQuit()[pri:0, instance:Android.Test.HomePage_Test_001@40a4337a]" started-at="2024-12-22T18:16:48 IST" name="postQuit" finished-at="2024-12-22T18:16:49 IST" duration-ms="1020" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postQuit -->
+      </class> <!-- Android.Test.HomePage_Test_001 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
